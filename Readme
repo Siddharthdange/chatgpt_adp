@@ -1,0 +1,6 @@
+Importeed opanAi library 
+generate openai key from Openai website and enter your key and run the code 
+It will prompt few questions 
+What type of chatbot would you like to create?
+-- Conversational chatbot
+Then you can ask any question on command line to it 
